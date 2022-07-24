@@ -4,7 +4,7 @@
  *
  * @author Webkul
  */
-
+// This is a test text only for Stagex
 namespace wooMarketplaceRFQ\Templates\Front;
 
 use wooMarketplaceRFQ\Templates\Front;
